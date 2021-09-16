@@ -1,0 +1,3 @@
+module Project {
+	requires jsoup;
+}
